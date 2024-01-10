@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e427dd5c.css",
+    "main.js": "/static/js/main.0beda339.js",
+    "static/media/playstore.png": "/static/media/playstore.92c8ee121c8b3836d8f1.png",
+    "index.html": "/index.html",
+    "main.e427dd5c.css.map": "/static/css/main.e427dd5c.css.map",
+    "main.0beda339.js.map": "/static/js/main.0beda339.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e427dd5c.css",
+    "static/js/main.0beda339.js"
+  ]
+}
